@@ -1,3 +1,6 @@
+// Nothing much, a very simple code that uses the Random Class in Java to visualize a slot machine on whom the player's
+// winnings are decided
+
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Random;
